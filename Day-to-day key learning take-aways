@@ -1,1 +1,2 @@
 Use case of Visualforce -> Email Template (for building an Approval Process) 
+Significance of Type Casting from Generic sObject to Specific object type : Accessibility of the 'dot' (.) operator 
