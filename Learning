@@ -1,0 +1,2 @@
+Conditional checking before commit : Before inserting / assigning some value to any record, check the record's existence - 
+                                     if(!accountList.isEmpty) { // assign opportunity; } 
