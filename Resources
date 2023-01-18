@@ -1,2 +1,3 @@
 Trailhead code sampes : https://github.com/developerforce/trailhead-code-samples
-MVC in Salesforce : https://www.salesforcetutorial.com/model-view-controller-mvc/#:~:text=Apex%20is%20OO%20and%20very,tight%20integration%20with%20the%20database
+MVC in Salesforce : https://www.salesforcetutorial.com/model-view-controller-mvc/#:~:text=Apex%20is%20OO%20and%20very,tight%20integration%20with%20the%20databaseTrigger to Prevent Record Deletion
+: https://cloudvandana.com/trigger-to-prevent-record-deletion/#:~:text=Step%201%20%E2%80%93%20Login%20into%20your,Apex%20Trigger'%20as%20shown%20below.
